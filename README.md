@@ -1,2 +1,2 @@
 # Projeto-Naruto
-Site do Saruto Shippuden
+Site do Naruto Shippuden
